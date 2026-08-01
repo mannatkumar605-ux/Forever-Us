@@ -138,14 +138,5 @@ window.addEventListener("scroll", () => {
     });
 
 });
-/* ==================== INTRO ==================== */
-
-window.onload = () => {
-
-setTimeout(()=>{
-
-document.getElementById("intro").style.display="none";
-
-},8000);
 
 }
